@@ -1,1 +1,1 @@
-Learning how to commit updates
+Be up to date
